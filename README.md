@@ -1,4 +1,6 @@
-<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/298c4795-00b7-4932-b801-1e810708f40b" />
+
+<img width="624" height="418" alt="image" src="https://github.com/user-attachments/assets/d0c4dcdd-edb1-4b41-b679-8dc4e8a14a68" />
+
 
 
 # Face Recognition Deep Models
