@@ -105,7 +105,7 @@ Structural similarity (SSIM) captures identity features better than pixel-wise l
 * Shared encoder architecture
 * Distance-based decision (L1 / L2)
 
-✅ Result: ~67% validation accuracy
+✅ Result: ~70% validation accuracy
 
 💡 Insight:
 Fine-tuning pretrained backbones (VGG16) significantly improves performance.
@@ -136,7 +136,7 @@ Triplet loss improves **global separation of identities**.
 * Lightweight (~2.2M parameters)
 * Efficient embedding extraction
 
-✅ Result: ~79% validation accuracy
+✅ Result: ~80% validation accuracy
 
 💡 Insight:
 Best trade-off between **speed and accuracy**.
