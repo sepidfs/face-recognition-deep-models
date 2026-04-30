@@ -1,3 +1,6 @@
+<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/298c4795-00b7-4932-b801-1e810708f40b" />
+
+
 # Face Recognition Deep Models
 
 🚀 A multi-model deep learning framework for **face verification, identification, and embedding learning** using real-world unconstrained facial data.
